@@ -10,7 +10,7 @@ li:hover{
     background-color: gray;
     border: solid 1px black;
     color: floralwhite;
-    border-radius: 40px;
+    border-radius: 10px;
     transition: all 0.4s;
 }
 .cont2{
@@ -31,14 +31,18 @@ li:hover{
     display: flex;
     align-items: center;
     padding: 10px;
+    font-size: 25px;
 }
 table{
     border: solid 1px;
     background-color: #cdefff;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
+    text-align: center;
 }
 td{
     border: solid 1px;
     padding: 20px;
+    width: 300px;
 }

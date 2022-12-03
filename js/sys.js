@@ -8,4 +8,6 @@ fetch(url)
        console.log(ip);
        // 画面に書き出す
        document.getElementById("ip").lastElementChild.textContent = ip.ip;
+       document.getElementById("ip").lastElementChild.textContent = ip.ip;
+       document.getElementById("ip").lastElementChild.textContent = ip.ip;
    });
